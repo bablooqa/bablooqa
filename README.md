@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Babloo Shah
+# 👋 Hi, I'm Babloo Kumar
 
 ### 🚀 Vibe Coding Expert | GenAI/ML Engineer | QA Automation Specialist
 
