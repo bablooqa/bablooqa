@@ -107,19 +107,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)
-
-</div>
-
----
-
-## 🎯 Core Competencies
-
-<div align="center">
 
 ### 🧪 Test Automation
 **Selenium WebDriver** • **Cypress** • **Playwright** • **Behave BDD** • **Appium**
@@ -239,8 +226,8 @@ I'm always open to interesting conversations and collaboration opportunities!
 
 ### 🙏 Thanks for visiting!
 
-![Visitor Count](https://profile-counter.glitch.me/yourusername/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/bablooqa/count.svg)
 
-**⭐ From [yourusername](https://github.com/yourusername) | Made with ❤️ and Python**
+**⭐ From [yourusername](https://github.com/bablooqa) | Made with ❤️ and Python**
 
 </div>
