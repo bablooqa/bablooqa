@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Babloo Kumar
+# 👋 Hi, I'm Babloo Shah
 
 ### 🚀 Vibe Coding Expert | GenAI/ML Engineer | QA Automation Specialist
 
@@ -42,7 +42,7 @@
 
 </div>
 
-Expert full-stack developer specializing in **vibe coding** - an AI-powered development approach that uses natural language prompts with LLMs (ChatGPT, Claude, Gemini) to architect and deploy production-grade applications [web:20][web:21][web:24]. My workflow combines:
+Expert full-stack developer specializing in **vibe coding** - an AI-powered development approach that uses natural language prompts with LLMs (ChatGPT, Claude, Gemini) to architect and deploy production-grade applications. My workflow combines:
 
 - 🧠 **Prompt Engineering:** Crafting precise natural language instructions for optimal code generation
 - 🔄 **Iterative Refinement:** Conversational development cycles with AI assistants for rapid prototyping
@@ -142,15 +142,33 @@ Expert full-stack developer specializing in **vibe coding** - an AI-powered deve
 
 ---
 
+## 🔗 Version Control Platforms
+
+<div align="center">
+
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bablooqa)
+[![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com)
+[![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.org)
+
+</div>
+
+---
+
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bablooqa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+<a href="https://github.com/bablooqa">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bablooqa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bablooqa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+</a>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bablooqa&theme=tokyonight&hide_border=true)
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bablooqa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=bablooqa&theme=tokyonight&hide_border=true)](https://github.com/bablooqa)
 
 </div>
 
@@ -160,7 +178,7 @@ Expert full-stack developer specializing in **vibe coding** - an AI-powered deve
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=bablooqa&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)
+[![trophy](https://github-profile-trophy.vercel.app/?username=bablooqa&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/bablooqa)
 
 </div>
 
@@ -266,6 +284,16 @@ Expert full-stack developer specializing in **vibe coding** - an AI-powered deve
 
 ---
 
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Babloo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bablooqa&theme=tokyo-night&hide_border=true)](https://github.com/bablooqa)
+
+</div>
+
+---
+
 ## 📫 Let's Connect!
 
 <div align="center">
@@ -286,7 +314,7 @@ I'm always open to interesting conversations and collaboration opportunities!
 
 <div align="center">
 
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
