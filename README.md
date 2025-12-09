@@ -228,6 +228,6 @@ I'm always open to interesting conversations and collaboration opportunities!
 
 ![Visitor Count](https://profile-counter.glitch.me/bablooqa/count.svg)
 
-**⭐ From [yourusername](https://github.com/bablooqa) | Made with ❤️ and Python**
+**⭐ From [bablooqa](https://github.com/bablooqa) | Made with ❤️ and Python**
 
 </div>
