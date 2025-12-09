@@ -65,7 +65,7 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D42029?style=for-the-badge&logo=apache&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
@@ -76,6 +76,7 @@
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### 🎨 Design, Analytics & Collaboration
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -96,11 +97,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 </div>
 
@@ -110,7 +111,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)
 
 </div>
 
@@ -118,63 +119,119 @@
 
 ## 🎯 Core Competencies
 
+<div align="center">
+
+### 🧪 Test Automation
+**Selenium WebDriver** • **Cypress** • **Playwright** • **Behave BDD** • **Appium**
+
+### 🔬 QA Frameworks
+**E-commerce Testing** • **KYC/ReKYC Systems** • **Mobile App Testing** • **API Testing** • **Performance Testing**
+
+### 🤖 GenAI/ML
+**Model Testing** • **AI-Driven Test Generation** • **MLflow** • **Model Deployment** • **Test Data Generation**
+
+### ⚙️ DevOps & CI/CD
+**Jenkins** • **GitHub Actions** • **Docker** • **Kubernetes** • **CI/CD Pipelines** • **Test Orchestration**
+
+</div>
+
 ---
 
 ## 💡 Featured Projects
 
 ### 🤖 AI-Powered Test Automation Framework
-- Integrated GenAI for intelligent test case generation
-- Reduced manual test writing effort by 60%
-- Technologies: Python, TensorFlow, Selenium, Jenkins
+- Integrated GenAI for intelligent test case generation and maintenance
+- Reduced manual test writing effort by 60% through smart automation
+- Implemented self-healing test scripts using ML algorithms
+- **Stack:** Python, TensorFlow, Selenium, Jenkins, Docker
 
 ### 📱 E-Commerce QA Suite
-- Comprehensive testing framework for e-commerce platforms
-- Automated end-to-end testing with 95% coverage
-- Technologies: Cypress, JavaScript, MongoDB, Docker
+- Comprehensive end-to-end automation for online shopping platforms
+- Achieved 95% test coverage for critical user journeys
+- Integrated with CI/CD pipeline for continuous testing
+- **Stack:** Cypress, JavaScript, MongoDB, Docker, AWS
 
 ### 🔐 KYC/ReKYC Automation
-- Automated identity verification testing pipeline
-- ML-based anomaly detection for edge cases
-- Technologies: Python, scikit-learn, AWS, PostgreSQL
+- Automated identity verification testing with 99% accuracy
+- ML-based anomaly detection for fraud prevention testing
+- Reduced verification testing time from days to hours
+- **Stack:** Python, scikit-learn, AWS, PostgreSQL, Selenium
+
+### 🏨 Hotel Booking Test Framework
+- Built robust automation suite for hotel reservation systems
+- Payment gateway integration testing with security validation
+- Cross-browser and mobile responsive testing
+- **Stack:** Playwright, TypeScript, Azure, MySQL
 
 ---
 
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Integrating GenAI into Your QA Workflow](#)
-- [Best Practices for Test Automation in 2025](#)
-- [Machine Learning for Smarter Testing Strategies](#)
+- [Integrating GenAI into Your QA Workflow](https://medium.com/@bablooshahcse)
+- [Best Practices for Test Automation in 2025](https://medium.com/@bablooshahcse)
+- [Machine Learning for Smarter Testing Strategies](https://medium.com/@bablooshahcse)
+- [BDD with Behave: A Complete Guide](https://medium.com/@bablooshahcse)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [More articles on Medium...](https://medium.com/@bablooshahcse)
+➡️ [**Read more articles on Medium →**](https://medium.com/@bablooshahcse)
 
 ---
 
 ## 🌟 Key Achievements
 
-- 🎯 **6+ years** of experience in QA automation and software testing
-- 🚀 Built and deployed **10+ enterprise-level** test automation frameworks
-- 🤖 Integrated **AI/ML models** into testing pipelines for 5+ major projects
-- 📈 Improved test coverage by **40%** through intelligent automation
-- 🏆 Contributed to **open-source** testing tools with 1000+ stars combined
+<div align="center">
+
+| 🎯 Experience | 🚀 Projects | 🤖 AI Integration | 📈 Impact | 🌐 Open Source |
+|:---:|:---:|:---:|:---:|:---:|
+| **6+ Years** | **10+ Enterprise** | **5+ AI Projects** | **40% Coverage** | **Active Contributor** |
+| QA Automation | Test Frameworks | ML in Testing | Improvement | Testing Tools |
+
+</div>
+
+- ✅ Successfully delivered and maintained multiple enterprise-level test automation frameworks
+- ✅ Integrated AI/ML models into testing pipelines for real-world production systems
+- ✅ Improved overall test coverage and reliability through intelligent automation strategies
+- ✅ Mentored junior QA engineers in automation best practices and AI-driven testing
+- ✅ Active contributor to open-source testing tools and QA automation frameworks
+
+---
+
+## 🔗 Version Control Platforms
+
+<div align="center">
+
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+[![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/yourusername)
+[![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.org/yourusername)
+
+</div>
 
 ---
 
 ## 📫 Let's Connect!
 
+<div align="center">
+
 I'm always open to interesting conversations and collaboration opportunities!
 
-- 📧 **Email:** [bablooshahcse@gmail.com](mailto:bablooshahcse@gmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/qababloo](https://linkedin.com/in/qababloo)
-- 🐦 **X/Twitter:** [@babloogenai](https://x.com/@babloogenai)
-- ✍️ **Medium:** [@bablooshahcse](https://medium.com/@bablooshahcse)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/qababloo)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bablooshahcse@gmail.com)
+[![X/Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/@babloogenai)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@bablooshahcse)
+
+</div>
 
 ---
 
 ## ✨ Random Dev Quote
 
+<div align="center">
+
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
 
 ---
 
@@ -184,7 +241,6 @@ I'm always open to interesting conversations and collaboration opportunities!
 
 ![Visitor Count](https://profile-counter.glitch.me/yourusername/count.svg)
 
-**⭐ From [Your GitHub Username](https://github.com/yourusername) | Made with ❤️ and Python**
+**⭐ From [yourusername](https://github.com/yourusername) | Made with ❤️ and Python**
 
 </div>
-
