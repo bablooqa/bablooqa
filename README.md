@@ -5,6 +5,7 @@
 ### 🚀 Vibe Coding Expert | GenAI/ML Engineer | QA Automation Specialist
 
 **Full-Stack Developer Specializing in AI-Powered Rapid Prototyping**
+**🚀 Building open-source AI tools for QA automation & developer productivity**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/qababloo)
 [![Medium](https://img.shields.io/badge/Medium-Follow-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@bablooshahcse)
