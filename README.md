@@ -13,6 +13,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=820&height=60&lines=Freelance+AI+Engineer+%26+QA+Automation+Specialist;Building+RAG+%26+LLM+Apps+with+LangChain+%2B+OpenAI;Playwright+%7C+Selenium+%7C+Cypress+%7C+Pytest+Automation;Full-Stack:+Next.js+%2B+FastAPI+%2B+PostgreSQL;Available+for+Remote+Freelance+%26+Contract+Projects" alt="Babloo Kumar — Freelance AI Engineer, QA Automation Specialist and Full-Stack Developer available for hire" />
 </a>
 
+<div align="center">
+<a href="https://bablookumar.netlify.app">
+  <img src="https://raw.githubusercontent.com/bablooqa/bablooqa/main/assets/header.svg" alt="Babloo Kumar — Freelance AI Engineer, QA Automation Specialist and Full-Stack Developer available for hire" width="100%" />
+</a>
+</div>
+
 # 👋 Hi, I'm Babloo Kumar
 
 ### 🤖 Freelance AI Engineer · 🧪 QA Automation Specialist · 💻 Full-Stack Developer
