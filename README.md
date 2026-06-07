@@ -17,7 +17,7 @@
 
 ### 🤖 Freelance AI Engineer · 🧪 QA Automation Specialist · 💻 Full-Stack Developer
 
-**5+ years building AI-powered apps, test automation frameworks, and production full-stack software — available for freelance & remote contract work worldwide.**
+**6+ years building AI-powered apps, test automation frameworks, and production full-stack software — available for freelance & remote contract work worldwide.**
 
 <!-- AVAILABILITY SIGNAL (great for SEO + GEO "available for hire") -->
 [![Available for Hire](https://img.shields.io/badge/Status-✅_Available_for_Freelance_Projects-2EAD33?style=for-the-badge)](mailto:bablooshahcse@gmail.com)
