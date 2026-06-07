@@ -9,13 +9,10 @@
 <div align="center">
 
 <!-- DYNAMIC TYPING HEADLINE (keyword-rich, animated) -->
-<a href="https://bablookumar.netlify.app">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=820&height=60&lines=Freelance+AI+Engineer+%26+QA+Automation+Specialist;Building+RAG+%26+LLM+Apps+with+LangChain+%2B+OpenAI;Playwright+%7C+Selenium+%7C+Cypress+%7C+Pytest+Automation;Full-Stack:+Next.js+%2B+FastAPI+%2B+PostgreSQL;Available+for+Remote+Freelance+%26+Contract+Projects" alt="Babloo Kumar — Freelance AI Engineer, QA Automation Specialist and Full-Stack Developer available for hire" />
-</a>
 
 <div align="center">
 <a href="https://bablookumar.netlify.app">
-  <img src="https://raw.githubusercontent.com/bablooqa/bablooqa/main/assets/header.svg" alt="Babloo Kumar — Freelance AI Engineer, QA Automation Specialist and Full-Stack Developer available for hire" width="100%" />
+  <img src="https://raw.githubusercontent.com/bablooqa/bablooqa/refs/heads/V1.0.1/assets/header.svg" alt="Babloo Kumar — Freelance AI Engineer, QA Automation Specialist and Full-Stack Developer available for hire" width="100%" />
 </a>
 </div>
 
@@ -37,6 +34,8 @@
 [![Email](https://img.shields.io/badge/Email-Hire_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bablooshahcse@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=bablooqa&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+
+
 
 </div>
 
@@ -75,6 +74,9 @@
 ## 🎯 About Me
 
 > Full-stack developer and AI builder who turns ideas into **production-grade, well-tested software** — combining deep QA automation experience with modern GenAI and AI-assisted (a.k.a. "vibe coding") rapid development.
+<a href="https://bablookumar.netlify.app">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=820&height=60&lines=Freelance+AI+Engineer+%26+QA+Automation+Specialist;Building+RAG+%26+LLM+Apps+with+LangChain+%2B+OpenAI;Playwright+%7C+Selenium+%7C+Cypress+%7C+Pytest+Automation;Full-Stack:+Next.js+%2B+FastAPI+%2B+PostgreSQL;Available+for+Remote+Freelance+%26+Contract+Projects" alt="Babloo Kumar — Freelance AI Engineer, QA Automation Specialist and Full-Stack Developer available for hire" />
+</a>
 
 - 🤖 **AI / GenAI Engineering:** Build RAG pipelines, LLM-powered chatbots, AI agents, and conversational AI (Rasa) integrated into real products.
 - 🧪 **QA Automation Specialist:** 5+ years designing scalable automation frameworks across **e-commerce, KYC/ReKYC, POS/admin systems, Android apps, and hotel booking platforms.**
