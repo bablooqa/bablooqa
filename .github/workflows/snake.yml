@@ -7,7 +7,10 @@ on:
     - cron: "0 0 * * *"        # daily
   workflow_dispatch:           # manual run from the Actions tab
 permissions:
-  contents: write              # required to push the generated files to the `output` branch
+  contents: read               # default for every job; only `publish` is elevated
+concurrency:
+  group: snake-animation
+  cancel-in-progress: true     # a newer run supersedes an older one, so stale SVGs can't overwrite fresh ones
 jobs:
   generate:
     name: Generate contribution snake
@@ -21,6 +24,25 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - name: Upload generated SVGs
+        uses: actions/upload-artifact@v4
+        with:
+          name: snake
+          path: dist
+          if-no-files-found: error
+  publish:
+    name: Publish to output branch
+    needs: generate
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write          # only this job can push to the `output` branch
+    steps:
+      - name: Download generated SVGs
+        uses: actions/download-artifact@v4
+        with:
+          name: snake
+          path: dist
       - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
