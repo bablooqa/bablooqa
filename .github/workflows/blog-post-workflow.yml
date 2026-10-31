@@ -1,0 +1,20 @@
+# Auto-updates the "Latest Blog Posts" block in README.md from your Medium feed.
+# NOTE: GitHub only runs workflows inside .github/workflows/ (not a top-level "workflows/" folder).
+name: Latest blog post workflow
+on:
+  schedule:
+    - cron: "0 */12 * * *"   # every 12 hours
+  workflow_dispatch:          # lets you run it manually from the Actions tab
+permissions:
+  contents: write             # required so the action can commit the README change
+jobs:
+  update-readme-with-blog:
+    name: Update README with latest Medium posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Pull in Medium posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://medium.com/feed/@bablooshahcse"
