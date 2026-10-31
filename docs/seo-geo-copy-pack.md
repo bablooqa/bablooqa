@@ -36,13 +36,13 @@ Use identical name + role + "freelance / available for hire" wording across port
 <meta name="twitter:image" content="https://bablookumar.netlify.app/og-image.png" />
 ```
 
-> `og-image.png` (1200×630) does not exist yet (handoff item 4). Until it does, link previews will have no image.
+> **Do not publish the `og:image`, `twitter:image` or JSON-LD `image` tags until `og-image.png` (1200×630) exists and is deployed at that URL** (handoff item 4). Until then, omit those three fields, otherwise link previews are blank and the schema points at a broken image.
 
 ---
 
 ## 2. JSON-LD Schema
 
-The enhanced, deployable version lives in the portfolio's `index.html` (handoff item 3). This block is the positioning-aligned reference for the `Person` entity. It intentionally omits `aggregateRating`: there are no on-page reviews, which risks a Google structured-data policy violation.
+**Status: not yet deployed.** The portfolio's `index.html` has not been updated (handoff item 3 is pending, blocked on access to the portfolio repo). This block is the positioning-aligned reference for the `Person` entity; the fuller deployable version (FAQPage + richer Person) is in the handoff's `portfolio/index.html`, not in the live site. It intentionally omits `aggregateRating`: there are no on-page reviews, which risks a Google structured-data policy violation.
 
 ```html
 <script type="application/ld+json">
@@ -54,7 +54,7 @@ The enhanced, deployable version lives in the portfolio's `index.html` (handoff 
   "image": "https://bablookumar.netlify.app/og-image.png",
   "jobTitle": "Freelance AI/ML Engineer & Full-Stack Developer",
   "description": "Freelance AI/ML engineer and full-stack developer with 6+ years of engineering experience, backed by a QA-automation foundation. Builds RAG chatbots, LangChain/LangGraph agents, multi-agent systems, n8n automations, fine-tuned and validated LLMs, and full-stack products. Also offers QA automation and AI testing. Available for remote contract work worldwide.",
-  "email": "mailto:bablooshahcse@gmail.com",
+  "email": "bablooshahcse@gmail.com",
   "address": { "@type": "PostalAddress", "addressCountry": "India" },
   "knowsAbout": [
     "Artificial Intelligence", "Machine Learning", "Generative AI", "LLM Integration", "RAG",
@@ -88,17 +88,17 @@ The enhanced, deployable version lives in the portfolio's `index.html` (handoff 
 Freelance AI/ML Engineer & Full-Stack Developer | RAG, LangChain, LangGraph, Agentic AI & n8n | Next.js, FastAPI, Node.js, Python | QA Automation Foundation | Available for Remote Projects
 ```
 
-**B — AI-forward:**
+**B — AI-depth emphasis:**
 ```
-Freelance AI/ML Engineer | RAG, LLM Fine-Tuning & Evaluation, Multi-Agent Systems (LangGraph) | Full-Stack (Next.js, FastAPI, Node.js) | QA Automation | Open to Remote Freelance Work
-```
-
-**C — Full-stack-forward:**
-```
-Freelance Full-Stack Developer (Next.js, FastAPI, Node.js, Python) | AI/ML: RAG, LangChain, LangGraph, n8n | QA Automation & AI Testing | Available for Hire | Remote
+Freelance AI/ML Engineer & Full-Stack Developer | RAG, LLM Fine-Tuning & Evaluation, Multi-Agent Systems (LangGraph) | Next.js, FastAPI, Node.js | QA Automation | Open to Remote Work
 ```
 
-> Lengths: A = 188, B = 182, C = 165 characters (limit 220).
+**C — Stack emphasis:**
+```
+Freelance AI/ML Engineer & Full-Stack Developer (Next.js, FastAPI, Node.js, Python) | RAG, LangChain, LangGraph, n8n | QA Automation & AI Testing | Available for Hire | Remote
+```
+
+> Lengths: A = 188, B = 182, C = 175 characters (limit 220).
 > Also turn on **"Open to Work → Freelance / Contract"**.
 
 ---
