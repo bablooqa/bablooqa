@@ -288,11 +288,7 @@ Yes. I'm available for freelance and remote contract work and have 5+ years buil
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Vibe Coding: The Future of AI-Powered Development](https://medium.com/@bablooshahcse)
-- [Integrating GenAI into Your QA Workflow](https://medium.com/@bablooshahcse)
-- [Best Practices for Test Automation in 2025](https://medium.com/@bablooshahcse)
-- [Machine Learning for Smarter Testing Strategies](https://medium.com/@bablooshahcse)
-- [BDD with Behave: A Complete Guide](https://medium.com/@bablooshahcse)
+- [How I Built SplitNow to Simplify Splitting Bills with Anyone](https://medium.com/@bablooshahcse/how-i-built-splitnow-to-simplify-splitting-bills-with-anyone-347faf480c8d?source=rss-6287729e483b------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [**Read more on Medium →**](https://medium.com/@bablooshahcse)
